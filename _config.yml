@@ -28,7 +28,7 @@ author:
   #location         : "China"
   employer         : "86+551+63607745"
   uri              : # URL
-  email            : 'topspin@ustc.edu.cn'
+  email            : "topspin[at]ustc[dot]edu[dot]cn"
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
