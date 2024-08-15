@@ -27,7 +27,7 @@ author:
   bio              : " "
   #location         : "China"
   employer         : "86+551+63607745"
-  #uri              : # URL
+  uri              : # URL
   email            : "topspin@ustc.edu.cn" 
 
   # Academic websites
@@ -100,16 +100,16 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  #allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  #requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "topspin@ustc.edu.cn"
+  requiredFields         : ['name', 'email', 'message']
+  #transforms:
+  #  email                : "topspin@ustc.edu.cn"
   generatedFields:
     date:
       type               : "date"
