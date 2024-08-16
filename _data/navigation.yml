@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /research/  
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
@@ -14,5 +14,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Further Information"
-    url: /further information/
+ 
