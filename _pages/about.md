@@ -22,10 +22,13 @@ redirect_from:
 {% include base_path %}
 
 
-- Work experience:
+## - Work experience:
    - 2018-present, Professor, **[School of Mathematical Sciences](https://math.ustc.edu.cn/new/main.psp)**, University of Science and Technology of China.
+
    - 2012-2018, Assistant Professor, Associate Professor, **[Department of Mathematics](https://math.ustc.edu.cn/new/main.psp)**, University of Wisconsin-Madison.
+     
    - 2011-2012, Research Assistant Professor, **[Simons Center for Geometry and Physics](https://scgp.stonybrook.edu/)**, SUNY at Stony Brook.
+     
    - 2008-2011, Instructor, **[Department of Mathematics](https://www.math.princeton.edu/)**, Princeton University.
     
 - Education:
@@ -48,11 +51,11 @@ redirect_from:
 
 3. On the structure of Ricci shrinkers, (in collabration with H.Z. Li and Y. Li), Journal of functional analysis 280 (2021), 108955.
 
-4.​​On the regular-convexity of Ricci shrinker limit spaces, (in collaboration with S.S. Huang, Y Li),  Journal für die reine und angewandte Mathematik, 771 （2021)， 99-136.
+4. ​​On the regular-convexity of Ricci shrinker limit spaces, (in collaboration with S.S. Huang, Y Li),  Journal für die reine und angewandte Mathematik, 771 （2021)， 99-136.
 
-5.Collapsing geometry with Ricci curvature bounded below and Ricci flow smoothing, (in collabration with S.S. Huang and X.C. Rong), Symmetry, Integrability and Geometry: Methods and Applications(SIGMA) 16(2020), no 123.
+5. Collapsing geometry with Ricci curvature bounded below and Ricci flow smoothing, (in collabration with S.S. Huang and X.C. Rong), Symmetry, Integrability and Geometry: Methods and Applications(SIGMA) 16(2020), no 123.
 
-6.​​Heat Kernel on Ricci Shrinkers, (in collabration with Y. Li), Calculus of Variations and Partial Differential Equations, 59(2020), article number:194.
+6. ​​Heat Kernel on Ricci Shrinkers, (in collabration with Y. Li), Calculus of Variations and Partial Differential Equations, 59(2020), article number:194.
 
 7. Space of Ricci flows(II)---part B: weak compactness of the flows, (in collabration with X.X.Chen), Journal of Differential Geometry, 116(2020), 1-123.
 
