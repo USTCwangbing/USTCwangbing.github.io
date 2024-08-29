@@ -97,13 +97,13 @@ redirect_from:
 
 - Preprints:
 
-1.Canonical diffeomorphisms of manifolds near spheres, (in collaboration with X.R. Zhao), arXiv:2109.14803, submitted.
+1. Canonical diffeomorphisms of manifolds near spheres, (in collaboration with X.R. Zhao), arXiv:2109.14803, submitted.
 
-2.Ricci integrals,local functionals and the Ricci flow, (in collaboration with Y.Q. Ma), arXiv:2109.02449, submitted.
+2. Ricci integrals,local functionals and the Ricci flow, (in collaboration with Y.Q. Ma), arXiv:2109.02449, submitted.
 
-3.Rigidity of round cylinders in Ricci shrinkers, (in collaboration with Y. Li), arXiv:2108.03622, submitted.
+3. Rigidity of round cylinders in Ricci shrinkers, (in collaboration with Y. Li), arXiv:2108.03622, submitted.
 
-4.The local entropy along Ricci flow---Part B: the pseudo-locality theorems, arXiv:2010.09981, submitted.
+4. The local entropy along Ricci flow---Part B: the pseudo-locality theorems, arXiv:2010.09981, submitted.
 
 5. Rigidity of the first Betti number via Ricci flow smoothing, (in collaboration with S.S.Huang), arXiv:2004.09762, submitted.
 
