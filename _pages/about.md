@@ -23,14 +23,14 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+## Work experience
 ======
 * 2018-present, Professor, School of Mathematical Sciences, University of Science and Technology of China.
 * 2012-2018, Assistant Professor, Associate Professor, Department of Mathematics, University of Wisconsin-Madison.
 * 2011-2012, Research Assistant Professor, Simons Center for Geometry and Physics, SUNY at Stony Brook.
 * 2008-2011, Instructor, Department of Mathematics, Princeton University.
     
-Education
+## Education
 ======
 * 2003-2008, PhD student, Department of Mathematics, University of Wisconsin-Madison.
 * 1998-2003, Undergraduate student, Special class for gifted young, University of Science and Technology of China
