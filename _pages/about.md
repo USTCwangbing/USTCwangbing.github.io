@@ -16,9 +16,7 @@ redirect_from:
  No.96 Jinzhai Road, Hefei, Anhui, China, 230026
 
 ---
-permalink: /
-title: "CV"
-author_profile: true
+#CV
 
 ---
 
