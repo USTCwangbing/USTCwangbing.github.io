@@ -14,6 +14,7 @@ redirect_from:
 
 {% include base_path %}
 - Journal papers:
+--- 
   
 1. **[Ricci flow smoothing for locally collapsing manifolds](https://link.springer.com/content/pdf/10.1007/s00526-021-02176-2.pdf)** (in collabration with S.S. Huang), Calculus of Variations and Partial Differential Equations 61 (2022), no.2.
 
@@ -64,6 +65,7 @@ redirect_from:
 24. **[On the conditions to extend Ricci flow](https://academic.oup.com/imrn/article-abstract/doi/10.1093/imrn/rnn012/691696)**,Int Math Res Notices(2008), Vol. 2008.
 
 - Preprints:
+---
 
 1. Canonical diffeomorphisms of manifolds near spheres, (in collaboration with X.R. Zhao), arXiv:2109.14803, submitted.
 
