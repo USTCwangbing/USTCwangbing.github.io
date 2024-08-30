@@ -16,6 +16,7 @@ redirect_from:
 ---
 
 - Teaching at USTC(Fall 2018-present):
+--- 
    - Spring of 2022, MATH3002, Real analysis.
    
    - Fall of 2021, FS1001, Science and Society.
@@ -31,6 +32,7 @@ redirect_from:
    - Spring of 2019, MA06004.01, Topics in Differential Geometry.
  
 - Teaching at UW-Madison(Fall 2012-Spring 2018)：
+---
    - Spring of 2018, Math 951, Seminars/Topics in Geometric Analysis.
 
    - Fall of 2017, Math 461, College Geometry I.
@@ -66,6 +68,7 @@ redirect_from:
    - Fall of 2012, Math 320, Differential Equations & Linear Algebra.
  
  - Teaching at Princeton University (Fall 2008 – Spring 2011)
+---
     - Spring of 2011, Mat 202, Linear Algebra with Applications.
 
    - Fall of 2010, Mat 201, Multivariable Calculus.
@@ -81,6 +84,7 @@ redirect_from:
    - Fall of 2008, Mat 202, Linear Algebra with Applications.
   
 - Teaching at University of Wisconsin, Madison(Spring 2004 – Spring 2008)
+---
    - Spring of 2008, Math 210, Finite Mathematics.
 
    - Fall of 2007, Math 320, Linear Algebra and Ordinary Differential Equations.
