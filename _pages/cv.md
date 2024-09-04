@@ -17,7 +17,7 @@ redirect_from:
 
 - Work experience:
 ---
-   - 2018-present, Professor, **[School of Mathematical Sciences](https://math.ustc.edu.cn/new/main.psp)**, University of Science and Technology of China.
+   - 2018-present, Professor, **[School of Mathematical Sciences](https://math.ustc.edu.cn/main.htm)**, University of Science and Technology of China.
    - 2012-2018, Assistant Professor, Associate Professor, **[Department of Mathematics](https://www.math.wisc.edu/)**, University of Wisconsin-Madison. 
    - 2011-2012, Research Assistant Professor, **[Simons Center for Geometry and Physics](https://scgp.stonybrook.edu/)**, SUNY at Stony Brook.
    - 2008-2011, Instructor, **[Department of Mathematics](https://www.math.princeton.edu/)**, Princeton University.
