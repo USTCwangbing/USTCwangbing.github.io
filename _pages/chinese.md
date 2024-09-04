@@ -170,8 +170,8 @@ redirect_from:
 
 - 更多信息:
 ---
-**[【中国科学技术大学招聘信息】(几何与物理研究中心详见“合肥微尺度物质科学国家研究中心”)](https://employment.ustc.edu.cn/cn/indexnews.aspx?sign=635487875427187007#wcd)**
-Workshop on Geometry and Physics
-GAP Seminar
-2021数学暑期学校
+**[【中国科学技术大学招聘信息】(几何与物理研究中心详见“合肥微尺度物质科学国家研究中心”)](https://employment.ustc.edu.cn/cn/indexnews.aspx?sign=635487875427187007#wcd)**  
+Workshop on Geometry and Physics  
+GAP Seminar  
+2021数学暑期学校  
 **[威斯康星大学3+1+1项目](https://oic.ustc.edu.cn/?post_type=news&p=10154)**
