@@ -35,5 +35,10 @@ redirect_from:
    - 1998-2003, **[中国科学技术大学少年班](https://sgy.ustc.edu.cn/)** ，本科生。
 
 
+- 研究成果:
+---
+- 期刊论文：
+   - 2018年至今，中国科学技术大学**[数学科学学院](https://math.ustc.edu.cn/main.htm)**，教授。
+
 
 
