@@ -38,11 +38,11 @@ redirect_from:
 - 研究成果:
 ---
 - 期刊论文：
-   - 1. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia 44 (2024), no.B5, 1639-1695.
+   1. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia 44 (2024), no.B5, 1639-1695.
   
-   - 2. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), J. Differ. Geom. 127 (2024), no.2, 817-897.
+   2. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), J. Differ. Geom. 127 (2024), no.2, 817-897.
 
-   - 3. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Trans. Amer. Math. Soc. Ser. B(2023), no.10, 944-987.
+   3. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Trans. Amer. Math. Soc. Ser. B(2023), no.10, 944-987.
 
    - 4. **[Canonical diffeomorphisms of manifolds near spheres](https://link.springer.com/article/10.1007/s12220-023-01375-x)**, (in collabration with X.R. Zhao), The Journal of Geometric Analysis 33 (2023), no.304, 1-31.
 
