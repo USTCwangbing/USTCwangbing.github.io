@@ -27,6 +27,5 @@ redirect_from:
    - 2003-2008, PhD student, **[Department of Mathematics](https://math.ustc.edu.cn/new/main.psp)**, University of Wisconsin-Madison.  
    - 1998-2003, Undergraduate student, **[Special class for gifted young](https://scgy.ustc.edu.cn/)**, University of Science and Technology of China
 
-**[Personal CV]( https://USTCwangbing.github.io/files/BING WANG’S CURRICULUM VITAE.pdf)**
 
 
