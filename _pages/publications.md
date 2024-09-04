@@ -20,11 +20,11 @@ redirect_from:
   
 2. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), J. Differ. Geom. 127 (2024), no.2, 817-897.
 
-3. **[Ricci curvature integrals, local functionals](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, and the Ricci flow, (in collabration with Y.Q. Ma), Trans. Amer. Math. Soc. Ser. B(2023), no.10, 944-987.
+3. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Trans. Amer. Math. Soc. Ser. B(2023), no.10, 944-987.
 
 4. **[Canonical diffeomorphisms of manifolds near spheres](https://link.springer.com/article/10.1007/s12220-023-01375-x)**, (in collabration with X.R. Zhao), The Journal of Geometric Analysis 33 (2023), no.304, 1-31.
 
-5. **[Ricci flow smoothing for locally collapsing manifolds](https://link.springer.com/content/pdf/10.1007/s00526-021-02176-2.pdf)** (in collabration with S.S. Huang), Calculus of Variations and Partial Differential Equations 61 (2022), no.2.
+5. **[Ricci flow smoothing for locally collapsing manifolds](https://link.springer.com/content/pdf/10.1007/s00526-021-02176-2.pdf)** , (in collabration with S.S. Huang), Calculus of Variations and Partial Differential Equations 61 (2022), no.2.
 
 6. **[On Ilmanen's multiplicity one conjecture for mean curvature flow with type-I mean curvature](https://ems.press/journals/jems/articles/1393833)**, (in collabration with H.Z. Li), Journal of European Mathematical Society 24 (2022), no.1, 37-135.
 
