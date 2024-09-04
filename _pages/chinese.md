@@ -40,6 +40,9 @@ redirect_from:
 
 - 研究成果:
 ---
+
+---
+
 - 期刊论文：
    1. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia 44 (2024), no.B5, 1639-1695.
   
@@ -115,6 +118,9 @@ redirect_from:
 
 - 教学经历:
 ---
+
+---
+
 - 中国科技大学教学（2018年秋季至今）：
    - 2024年春季， 001701.01，复分析(H)。
    - 2023年秋季， 001707.01，拓扑学(H)。
@@ -170,6 +176,9 @@ redirect_from:
 
 - 更多信息:
 ---
+
+---
+
 **[【中国科学技术大学招聘信息】(几何与物理研究中心详见“合肥微尺度物质科学国家研究中心”)](https://employment.ustc.edu.cn/cn/indexnews.aspx?sign=635487875427187007#wcd)**  
 Workshop on Geometry and Physics  
 GAP Seminar  
