@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文版"
+title: "王兵(Bing Wang)"
 permalink: /chinese/
 author_profile: true
 redirect_from:
@@ -16,10 +16,11 @@ redirect_from:
 
 王兵(Bing Wang)
 
-教学科研楼（悦群楼）509室
-中国科学技术大学，数学科学学院
-安徽省合肥市金寨路96号 230026
-电话: 86+551+63607745                 电子邮件: topspin@ustc.edu.cn
+教学科研楼（悦群楼）509室  
+中国科学技术大学，数学科学学院  
+安徽省合肥市金寨路96号 230026  
+电话: 86+551+63607745                   
+电子邮件: topspin@ustc.edu.cn
 
 
 - 学术背景:
