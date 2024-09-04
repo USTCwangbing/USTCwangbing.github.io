@@ -13,5 +13,8 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/    
+    url: /cv/
+
+  - title: "中文版"
+    url: /chinese/   
  
