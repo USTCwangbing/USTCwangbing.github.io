@@ -15,11 +15,11 @@ redirect_from:
 {% include base_path %}
 
 
-&ensp;&ensp;教学科研楼（悦群楼）509室  
-&ensp;&ensp;中国科学技术大学，数学科学学院  
-&ensp;&ensp;安徽省合肥市金寨路96号 230026  
-&ensp;&ensp;电话: 86+551+63607745                   
-&ensp;&ensp;电子邮件: topspin@ustc.edu.cn
+&ensp;&ensp;&ensp;教学科研楼（悦群楼）509室  
+&ensp;&ensp;&ensp;中国科学技术大学，数学科学学院  
+&ensp;&ensp;&ensp;安徽省合肥市金寨路96号 230026  
+&ensp;&ensp;&ensp;电话: 86+551+63607745                   
+&ensp;&ensp;&ensp;电子邮件: topspin@ustc.edu.cn
 
 
 - 学术背景:
@@ -145,15 +145,15 @@ redirect_from:
 
 ---
 
-&ensp;&ensp;**[【中国科学技术大学招聘信息】(几何与物理研究中心详见“合肥微尺度物质科学国家研究中心”)](https://employment.ustc.edu.cn/cn/indexnews.aspx?sign=635487875427187007#wcd)**  
-&ensp;&ensp;**[The 4th Symposium in Geometry and Differential Equations](https://fsgde.casconf.cn/)**  
-&ensp;&ensp;**[2024数学暑期学校](https://igp.ustc.edu.cn/2024/0409/c28839a637608/page.htm)**  
-&ensp;&ensp;**[2023 Pacific Rim Complex & Symplectic Geometry Conference](https://2023prcsg.casconf.cn/)**  
-&ensp;&ensp;**[2023数学暑期学校](https://igp.ustc.edu.cn/2023/0410/c28839a598247/page.htm)**  
-&ensp;&ensp;**[Conference on Geometry and Analysis 2022](https://igp.ustc.edu.cn/2022/0602/c28837a557076/page.htm)**  
-&ensp;&ensp;**[Workshop on Geometry and Physics](http://staff.ustc.edu.cn/~topspin/index-conference.html)**  
-&ensp;&ensp;**[GAP Seminar](http://staff.ustc.edu.cn/~xinw09/)**   
-&ensp;&ensp;**[2021数学暑期学校](https://igp.ustc.edu.cn/2024/0115/c28839a628331/page.htm)**  
-&ensp;&ensp;**[威斯康星大学3+1+1项目](https://oic.ustc.edu.cn/?post_type=news&p=10154)**  
+&ensp;&ensp;&ensp;**[【中国科学技术大学招聘信息】(几何与物理研究中心详见“合肥微尺度物质科学国家研究中心”)](https://employment.ustc.edu.cn/cn/indexnews.aspx?sign=635487875427187007#wcd)**  
+&ensp;&ensp;&ensp;**[The 4th Symposium in Geometry and Differential Equations](https://fsgde.casconf.cn/)**  
+&ensp;&ensp;&ensp;**[2024数学暑期学校](https://igp.ustc.edu.cn/2024/0409/c28839a637608/page.htm)**  
+&ensp;&ensp;&ensp;**[2023 Pacific Rim Complex & Symplectic Geometry Conference](https://2023prcsg.casconf.cn/)**  
+&ensp;&ensp;&ensp;**[2023数学暑期学校](https://igp.ustc.edu.cn/2023/0410/c28839a598247/page.htm)**  
+&ensp;&ensp;&ensp;**[Conference on Geometry and Analysis 2022](https://igp.ustc.edu.cn/2022/0602/c28837a557076/page.htm)**  
+&ensp;&ensp;&ensp;**[Workshop on Geometry and Physics](http://staff.ustc.edu.cn/~topspin/index-conference.html)**  
+&ensp;&ensp;&ensp;**[GAP Seminar](http://staff.ustc.edu.cn/~xinw09/)**   
+&ensp;&ensp;&ensp;**[2021数学暑期学校](https://igp.ustc.edu.cn/2024/0115/c28839a628331/page.htm)**  
+&ensp;&ensp;&ensp;**[威斯康星大学3+1+1项目](https://oic.ustc.edu.cn/?post_type=news&p=10154)**  
 
 
