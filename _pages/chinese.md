@@ -75,11 +75,10 @@ redirect_from:
 
 - Preprints:
    1. On K\" ahler Ricci shrinker surfaces, (in collaboration with Y. Li), arXiv:2301.09784.
-   2. Ricci integrals,local functionals and the Ricci flow, (in collaboration with Y.Q. Ma), arXiv:2109.02449, submitted.
-   3. The local entropy along Ricci flow---Part B: the pseudo-locality theorems, arXiv:2010.09981, submitted.
-   4. Rigidity of the first Betti number via Ricci flow smoothing, (in collaboration with S.S.Huang), arXiv:2004.09762, submitted.
-   5. Space of Ricci flows(II), (in collaboration with X.X.Chen), arXiv: 1405.6797, with furtherdetails, and published in part A and part B.
-   6. Ricci flow on orbifold, arXiv:1003.0151.
+   2. The local entropy along Ricci flow---Part B: the pseudo-locality theorems, arXiv:2010.09981, submitted.
+   3. Rigidity of the first Betti number via Ricci flow smoothing, (in collaboration with S.S.Huang), arXiv:2004.09762, submitted.
+   4. Space of Ricci flows(II), (in collaboration with X.X.Chen), arXiv: 1405.6797, with furtherdetails, and published in part A and part B.
+   5. Ricci flow on orbifold, arXiv:1003.0151.
 
 
 - 教学经历:
