@@ -29,13 +29,13 @@ redirect_from:
 
 - 工作经历：
    - 2018年至今，中国科学技术大学**[数学科学学院](https://math.ustc.edu.cn/main.htm)**，教授。
-   - 2012-2018， 威斯康星大学**[麦迪逊分校数学系](https://www.math.wisc.edu/)**，助理教授，副教授。
-   - 2011-2012, 石溪大学**[西蒙斯几何与物理中心](https://scgp.stonybrook.edu/)**，研究助理教授。
-   - 2008-2011, **[普林斯顿大学数学系](https://www.math.princeton.edu/)**，讲师。
+   - 2012-2018，威斯康星大学**[麦迪逊分校数学系](https://www.math.wisc.edu/)**，助理教授，副教授。
+   - 2011-2012，石溪大学**[西蒙斯几何与物理中心](https://scgp.stonybrook.edu/)**，研究助理教授。
+   - 2008-2011，**[普林斯顿大学数学系](https://www.math.princeton.edu/)**，讲师。
     
 - 教育背景:
-   - 2003-2008, 威斯康星大学**[麦迪逊分校数学系](https://math.ustc.edu.cn/new/main.psp)**，博士生。
-   - 1998-2003, **[中国科学技术大学少年班](https://sgy.ustc.edu.cn/)** ，本科生。
+   - 2003-2008，威斯康星大学**[麦迪逊分校数学系](https://math.ustc.edu.cn/new/main.psp)**，博士生。
+   - 1998-2003，**[中国科学技术大学少年班](https://sgy.ustc.edu.cn/)** ，本科生。
 
 
 - 研究成果:
