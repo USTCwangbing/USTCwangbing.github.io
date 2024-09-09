@@ -30,7 +30,7 @@ redirect_from:
 
 7. **[On the structure of Ricci shrinkers](https://www.sciencedirect.com/science/article/pii/S0022123621000379?dgcid=author)**, (in collabration with H.Z. Li and Y. Li), Journal of functional analysis, vol.280(2021), no.2021, 108955.
 
-8. ​​**[On the regular-convexity of Ricci shrinker limit spaces](https://www.degruyter.com/document/doi/10.1515/crelle-2020-0021/html)**, (in collaboration with S.S. Huang, Y Li),  Journal für die reine und angewandte Mathematik, vol.771（2021), no.2021, 99-136.
+8. ​​**[On the regular-convexity of Ricci shrinker limit spaces](https://www.degruyter.com/document/doi/10.1515/crelle-2020-0021/html)**, (in collaboration with S.S. Huang, Y Li),  Journal für die reine und angewandte Mathematik, vol.771(2021), no.2021, 99-136.
 
 9. **[Collapsing geometry with Ricci curvature bounded below and Ricci flow smoothing](https://www.emis.de/journals/SIGMA/2020/123/sigma20-123.pdf)**, (in collabration with S.S. Huang and X.C. Rong), Symmetry, Integrability and Geometry: Methods and Applications(SIGMA), vol.16(2020), no.123, 25.
 
