@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 ***
- Room 509, Education Administration Building  
+ Room C1129, the Material and Science Research Building (section C)  
+
+ Institute of Geometry and Physics, University of Science and Technology of China
  
  School of Mathematical Sciences, University of Science and Technology of China  
  
