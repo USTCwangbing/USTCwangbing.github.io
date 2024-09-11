@@ -13,9 +13,7 @@ redirect_from:
  
  School of Mathematical Sciences, University of Science and Technology of China  
  
- No.96 Jinzhai Road, Hefei, Anhui, China, 230026
-
- Phone: 86+551+63607745                 
+ No.96 Jinzhai Road, Hefei, Anhui, China, 230026               
  
  Email: topspin@ustc.edu.cn
 
