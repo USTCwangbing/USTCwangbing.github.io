@@ -44,7 +44,7 @@ redirect_from:
 
 14. **[Rigidity of Vector Valued Harmonic maps of linear growth](https://link.springer.com/article/10.1007/s10711-018-0418-2)**, (in collaboration with S.S. Huang), Geometriae Dedicata, vol.202(2019), no.1, 357-371.
 
-15. **[Correction to: Regularity scales and convergence of the Calabi flow](https://link.springer.com/article/10.1007/s12220-018-0066-7)**, (in collaboration with H.Z. Li, K. Zheng), vol.29(2019), 3010-3010.
+15. **[Correction to: Regularity scales and convergence of the Calabi flow](https://link.springer.com/article/10.1007/s12220-018-0066-7)**, (in collaboration with H.Z. Li, K. Zheng), The Journal of Geometric Analysis, vol.29(2019), 3010-3010.
 
 16. **[The Rigidity of Ricci shrinkers of dimension four](https://www.ams.org/journals/tran/2019-371-10/S0002-9947-2019-07539-6/home.html)**, (in collabration with Y. Li), Transactions of American Mathematical Society, vol.371(2019), 6949-6972.
 
