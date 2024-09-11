@@ -38,7 +38,7 @@ redirect_from:
 
 11. **[Space of Ricci flows(II)---part B: weak compactness of the flows](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-116/issue-1/Space-of-Ricci-flows-IIPart-B--Weak-compactness-of/10.4310/jdg/1599271253.full)**, (in collabration with X.X.Chen), Journal of Differential Geometry, vol.116(2020), no.1, 1-123.
 
-12. **[Remarks of weak-compactness along K\"{a}hler Ricci flow](http://staff.ustc.edu.cn/~topspin/paper/89510-297_chapter13.pdf)**, (in collabration with X.X.Chen), Proceedings of the 7th International Congress of Chinese Mathematicians, vol.1(2019), 203-234.
+12. **[Remarks of weak-compactness along Kähler Ricci flow](http://staff.ustc.edu.cn/~topspin/paper/89510-297_chapter13.pdf)**, (in collabration with X.X.Chen), Proceedings of the 7th International Congress of Chinese Mathematicians, vol.1(2019), 203-234.
 
 13. **[The extension problem of the mean curvature flow(I)](https://link.springer.com/article/10.1007/s00222-019-00893-2)**, (in collaboration with H.Z. Li), Inventiones Mathematicae, vol.218 (2019), no.3, 721-777.
 
