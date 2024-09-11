@@ -50,7 +50,7 @@ redirect_from:
 
 17. **[K\"ahler-Ricci flow, K\"{a}hler-Einstein metric and K-stability](https://projecteuclid.org/euclid.gt/1538186735)**, (in collaboration with S. Song, X.X.Chen), Geometry and Topology, vol.22(2018), no.6, 3145-3173.
 
-18. **[Regularity scales and convergence of the Calabi flow](https://link.springer.com/article/10.1007/s12220-017-9896-y)**,(**[Correction of acknowledgement](https://link.springer.com/article/10.1007/s12220-018-0066-7)**, adding a research fund used for this study), (in collabration with H.Z. Li, K. Zheng), The Journal of Geometric Analysis, vol.28(2018), no.3, 2050-2101.
+18. **[Regularity scales and convergence of the Calabi flow](https://link.springer.com/article/10.1007/s12220-017-9896-y)**, (**[Correction of acknowledgement](https://link.springer.com/article/10.1007/s12220-018-0066-7)**, adding a research fund used for this study), (in collabration with H.Z. Li, K. Zheng), The Journal of Geometric Analysis, vol.28(2018), no.3, 2050-2101.
 
 19. **[Space of Ricci flows(II)---part A: moduli of singular Calabi-Yau space](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/space-of-ricci-flows-iipart-a-moduli-of-singular-calabiyau-spaces/20442DF6AB4061F875A02251E9A1ADBB)**,(in collaboration with X.X.Chen), Forum of Mathematics, Sigma, vol.5(2017), e32.
 
