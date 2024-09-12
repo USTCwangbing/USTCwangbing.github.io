@@ -48,7 +48,7 @@ redirect_from:
 
 16. **[The local entropy along Ricci flow---part A: the no-local-collapsing theorems](https://intlpress.com/site/pub/pages/journals/items/cjm/content/vols/0006/0003/a002/index.php)**, Cambridge Journal of Mathematics, vol.6(2018), no.3, 267-346.
 
-17. **[Kähler-Ricci flow, Kähler-Einstein metric and K-stability](https://projecteuclid.org/euclid.gt/1538186735)**, (in collaboration with S. Song, X.X.Chen), Geometry and Topology, vol.22(2018), no.6, 3145-3173.
+17. **[Kähler-Ricci flow, Kähler-Einstein metric and K-stability](https://projecteuclid.org/euclid.gt/1538186735)**, (in collaboration with S. Sun, X.X.Chen), Geometry and Topology, vol.22(2018), no.6, 3145-3173.
 
 18. **[Regularity scales and convergence of the Calabi flow](https://link.springer.com/article/10.1007/s12220-017-9896-y)**, (**[Correction of acknowledgement](https://link.springer.com/article/10.1007/s12220-018-0066-7)**, adding a research fund used for this study), (in collabration with H.Z. Li, K. Zheng), The Journal of Geometric Analysis, vol.28(2018), no.3, 2050-2101.
 
