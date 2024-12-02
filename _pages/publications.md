@@ -16,9 +16,9 @@ redirect_from:
 - Journal papers:
 --- 
 
-1.**[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**,Journal of Mathematical Study，(in collaboration with X.X.Chen),vol.57 (2024), 379-397.
+1. **[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**,Journal of Mathematical Study，(in collaboration with X.X.Chen),vol.57 (2024), 379-397.
 
-2.. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
+2. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
   
 3. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), Journal of Differential Geometry, vol.127(2024), no.2, 817-897.
 
