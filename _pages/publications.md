@@ -16,7 +16,7 @@ redirect_from:
 - Journal papers:
 --- 
 
-1. **[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**, (in collaboration with X.X.Chen), Journal of Mathematical Study，vol.57 (2024), 379-397.
+1. **[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
 
 2. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
   
