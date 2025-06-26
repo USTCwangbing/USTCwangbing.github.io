@@ -37,7 +37,7 @@ redirect_from:
    - 2003-2008，威斯康星大学**[麦迪逊分校数学系](https://math.ustc.edu.cn/new/main.psp)**，博士生。
    - 1998-2003，**[中国科学技术大学少年班](https://sgy.ustc.edu.cn/)** ，本科生。
  
-&ensp;&ensp;&ensp;**[完整简历](https://USTCwangbing.github.io/files/CV2024.pdf)**
+&ensp;&ensp;&ensp;**[完整简历](https://USTCwangbing.github.io/files/CV2024.1.pdf)**
 
 
 - 研究成果:
