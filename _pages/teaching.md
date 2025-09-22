@@ -49,7 +49,7 @@ redirect_from:
    - Spring of 2013, Math 820, Partial Differential Equations.
    - Fall of 2012, Math 320, Differential Equations & Linear Algebra.
  
- - Teaching at Princeton University (Fall 2008–Spring 2011)
+ - Teaching at Princeton University (Fall 2008-Spring 2011)
 ---
    - Spring of 2011, Mat 202, Linear Algebra with Applications.
    - Fall of 2010, Mat 201, Multivariable Calculus.
@@ -59,7 +59,7 @@ redirect_from:
    - Spring of 2009, Mat 202, Linear Algebra with Applications.
    - Fall of 2008, Mat 202, Linear Algebra with Applications.
   
-- Teaching at University of Wisconsin, Madison (Spring 2004–Spring 2008)
+- Teaching at University of Wisconsin, Madison (Spring 2004-Spring 2008)
 ---
    - Spring of 2008, Math 210, Finite Mathematics.
    - Fall of 2007, Math 320, Linear Algebra and Ordinary Differential Equations.
