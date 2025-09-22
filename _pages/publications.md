@@ -22,7 +22,7 @@ redirect_from:
   
 3. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), Journal of Differential Geometry, vol.127(2024), no.2, 817-897.
 
-4. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Transactions of the American Mathematical Society Series, vol.10(2023), 944-987.
+4. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Transactions of the American Mathematical Society, Series B, vol.10(2023), 944-987.
 
 5. **[Canonical diffeomorphisms of manifolds near spheres](https://link.springer.com/article/10.1007/s12220-023-01375-x)**, (in collabration with X.R. Zhao), The Journal of Geometric Analysis, vol.33(2023), no.304, 1-31.
 
