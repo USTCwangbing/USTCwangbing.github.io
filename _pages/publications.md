@@ -83,7 +83,7 @@ redirect_from:
 
 3. Rigidity of the first Betti number via Ricci flow smoothing, (in collaboration with S.S.Huang), arXiv:2004.09762, submitted.
 
-4. Space of Ricci flows(II), (in collaboration with X.X.Chen), arXiv: 1405.6797, with furtherdetails, and published in part A and part B.
+4. Space of Ricci flows (II) (in collaboration with X.X. Chen), arXiv:1405.6797, published separately as **[Part A](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/space-of-ricci-flows-iipart-a-moduli-of-singular-calabiyau-spaces/20442DF6AB4061F875A02251E9A1ADBB)** and **[Part B](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-116/issue-1/Space-of-Ricci-flows-IIPart-B--Weak-compactness-of/10.4310/jdg/1599271253.full)** with further details. A streamlined proof is also presented **[here](http://staff.ustc.edu.cn/~topspin/paper/89510-297_chapter13.pdf)**, along with some related comments.
 
 5. Ricci flow on orbifold, arXiv:1003.0151.
 
