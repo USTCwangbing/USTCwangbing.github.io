@@ -15,7 +15,7 @@ redirect_from:
 {% include base_path %}
 
 
-&ensp;&ensp;&ensp;物质科研楼C1129  
+&ensp;&ensp;&ensp;数学院新楼502  
 &ensp;&ensp;&ensp;中国科学技术大学，几何与物理研究中心  
 &ensp;&ensp;&ensp;中国科学技术大学，数学科学学院  
 &ensp;&ensp;&ensp;安徽省合肥市金寨路96号 230026                  
