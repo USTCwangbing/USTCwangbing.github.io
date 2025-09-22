@@ -14,8 +14,10 @@ redirect_from:
 {% include base_path %}
 ---
 
-- Teaching at USTC(Fall 2018-present)
+- Teaching at USTC (Fall 2018-present)
 --- 
+   - Fall of 2025, MATH7432P.01, Topics in geometry and physics.
+   - Spring of 2025, MATH3702e.01, Complex Analysis(H)(EN).
    - Spring of 2024, 001701.01, Complex Variable(H).
    - Fall of 2023, MATH3004.01, Functional Analysis.
    - Fall of 2022, MATH3004.01, Functional Analysis.
@@ -27,7 +29,7 @@ redirect_from:
    - Spring of 2020, MA06004.01, Topics in Differential Geometry.
    - Spring of 2019, MA06004.01, Topics in Differential Geometry.
 
-- Teaching at UW-Madison(Fall 2012-Spring 2018)
+- Teaching at UW-Madison (Fall 2012-Spring 2018)
 ---
    - Spring of 2018, Math 951, Seminars/Topics in Geometric Analysis.
    - Fall of 2017, Math 461, College Geometry I.
@@ -57,7 +59,7 @@ redirect_from:
    - Spring of 2009, Mat 202, Linear Algebra with Applications.
    - Fall of 2008, Mat 202, Linear Algebra with Applications.
   
-- Teaching at University of Wisconsin, Madison(Spring 2004 – Spring 2008)
+- Teaching at University of Wisconsin, Madison (Spring 2004 – Spring 2008)
 ---
    - Spring of 2008, Math 210, Finite Mathematics.
    - Fall of 2007, Math 320, Linear Algebra and Ordinary Differential Equations.
