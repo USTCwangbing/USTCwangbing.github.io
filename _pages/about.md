@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ***
- Room C1129, the Material and Science Research Building (section C)  
+ Room 502, New Building of the School of Mathematics
 
  Institute of Geometry and Physics, University of Science and Technology of China
  
