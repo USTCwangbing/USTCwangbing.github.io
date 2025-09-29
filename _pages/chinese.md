@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[![访问量](https://visitor-badge.laobi.icu/badge?page_id=ustcwangbing.ustcwangbing.github.io&left_text=访问量)](#)
+[![访问量](https://visitor-badge.laobi.icu/badge?page_id=ustcwangbing.ustcwangbing.github.io&left_text=访问量%20)](#)
 
 
 
