@@ -1,4 +1,4 @@
-<img width="919" height="334" alt="b364f5dcc5f33013521f1cb2fe220768" src="https://github.com/user-attachments/assets/1c76f96d-715b-4085-a9a1-99ef59a550c1" />---
+
 layout: archive
 title: "王兵(Bing Wang)"
 permalink: /chinese/
