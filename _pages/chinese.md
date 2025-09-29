@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-![访问量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fustcwangbing.github.io%2Fviews&query=value&label=访问量&color=blue&style=for-the-badge&cacheSeconds=3600)
 
 
 
