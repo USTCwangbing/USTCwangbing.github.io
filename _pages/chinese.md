@@ -17,7 +17,7 @@ redirect_from:
 <style>
 .badge{
   display:inline-flex; gap:.5em; align-items:center;
-  background:#1f6feb; /* 蓝色：也可换成 #0969da */
+  background:#52adc8; /* 蓝色：也可换成 #0969da */
   color:#fff; border-radius:999px;
   padding:.4em .8em;
   font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
