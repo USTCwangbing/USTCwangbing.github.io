@@ -1,4 +1,4 @@
-
+---
 layout: archive
 title: "王兵(Bing Wang)"
 permalink: /chinese/
@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 
 
 
