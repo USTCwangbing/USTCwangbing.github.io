@@ -9,11 +9,12 @@ redirect_from:
 
 
 
-<!-- 引入不蒜子脚本（仅在网页中可用，GitHub 仓库 README 里无效） -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div style="text-align:right;">
+  <!-- 引入不蒜子脚本（只需引一次即可） -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
+</div>
 
-<!-- 简洁版 -->
-<span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
 
 
 ---
