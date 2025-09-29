@@ -8,26 +8,20 @@ redirect_from:
 ---
 
 
-<!-- 每次打开页面 +1（隐藏） -->
-<img src="https://api.countapi.xyz/hit/ustcwangbing.github.io/views" style="display:none" alt="">
+<!-- 引入不蒜子脚本（仅在网页中可用，GitHub 仓库 README 里无效） -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!-- 显示区域（自定义“徽章”样式） -->
-<div id="pv-badge" style="
-  display:inline-flex;align-items:center;gap:.6em;
-  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-  font-size:14px;line-height:1;
-  background:#1f6feb;color:#fff;border-radius:999px;padding:.5em .9em;">
-  <span>访问量</span>
-  <span id="pv-num" style="font-weight:700;">…</span>
-</div>
+<!-- 简洁版 -->
+<span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
 
-<!-- 读取当前计数并填充数字 -->
-<script>
-fetch('https://api.countapi.xyz/get/ustcwangbing.github.io/views')
-  .then(r => r.json())
-  .then(d => { document.getElementById('pv-num').textContent = d.value; })
-  .catch(() => { document.getElementById('pv-num').textContent = 'N/A'; });
-</script>
+<!-- 或者做成徽章风格 -->
+<style>
+.badge{display:inline-flex;gap:.5em;align-items:center;
+  background:#238636;color:#fff;border-radius:999px;
+  padding:.4em .8em;font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-weight:600;}
+</style>
+<span class="badge">访问量 <span id="busuanzi_value_site_pv">0</span></span>
 
 
 
