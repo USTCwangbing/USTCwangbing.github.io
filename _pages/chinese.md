@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 
-<!-- 引入不蒜子脚本（仅在网页中可用，GitHub 仓库 README 里无效） -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!-- 简洁版 -->
-<span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
-
-
+<style>
+.badge{display:inline-flex;gap:.5em;align-items:center;
+  background:#238636;color:#fff;border-radius:999px;
+  padding:.4em .8em;font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-weight:600;}
+</style>
+<span class="badge">访问量 <span id="busuanzi_value_site_pv">0</span></span>
 
 
 ---
