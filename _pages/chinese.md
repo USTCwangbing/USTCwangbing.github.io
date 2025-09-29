@@ -14,15 +14,6 @@ redirect_from:
 <!-- 简洁版 -->
 <span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
 
-<!-- 或者做成徽章风格 -->
-<style>
-.badge{display:inline-flex;gap:.5em;align-items:center;
-  background:#238636;color:#fff;border-radius:999px;
-  padding:.4em .8em;font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-  font-weight:600;}
-</style>
-<span class="badge">访问量 <span id="busuanzi_value_site_pv">0</span></span>
-
 
 
 
