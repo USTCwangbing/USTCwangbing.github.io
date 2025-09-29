@@ -8,12 +8,23 @@ redirect_from:
 ---
 
 
+<!-- 只需引入一次脚本 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<div style="text-align:right;">
-  <!-- 引入不蒜子脚本（只需引一次即可） -->
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-  <span>访问量：<span id="busuanzi_value_site_pv">0</span></span>
-</div>
+<!-- 徽章样式 -->
+<style>
+.badge{
+  display:inline-flex; gap:.5em; align-items:center;
+  background:#238636; color:#fff; border-radius:999px;
+  padding:.4em .8em;
+  font:14px/1 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-weight:600;
+}
+</style>
+
+<!-- 站点总访问量（Site PV）- 仅此处保留这个 id -->
+<span class="badge">访问量 <span id="busuanzi_value_site_pv">0</span></span>
+
 
 
 
