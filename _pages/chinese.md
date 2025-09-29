@@ -7,11 +7,10 @@ redirect_from:
   - /resume
 ---
 
-[![访问](https://visitor-badge.laobi.icu/badge?page_id=ustcwangbing.ustcwangbing.github.io&left_text=访%20问%20)](#)
+
 
 ![访问量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fustcwangbing.github.io%2Fviews&query=value&label=访问量&color=blue)
 
-[![Views](https://visitor-badge.laobi.icu/badge?page_id=ustcwangbing.ustcwangbing.github.io&left_text=Views)](#) （访问量）
 
 
 
