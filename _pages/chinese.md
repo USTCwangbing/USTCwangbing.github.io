@@ -1,4 +1,4 @@
----
+<img width="919" height="334" alt="b364f5dcc5f33013521f1cb2fe220768" src="https://github.com/user-attachments/assets/1c76f96d-715b-4085-a9a1-99ef59a550c1" />---
 layout: archive
 title: "王兵(Bing Wang)"
 permalink: /chinese/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-
-![访问量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fustcwangbing.github.io%2Fviews&query=value&label=访问量&color=blue)
+[![访问量](https://visitor-badge.laobi.icu/badge?page_id=ustcwangbing.ustcwangbing.github.io&left_text=访%20问%20量20%)](#)
 
 
 
