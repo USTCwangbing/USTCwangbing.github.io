@@ -8,7 +8,27 @@ redirect_from:
 ---
 
 
-![访问量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fustcwangbing.github.io%2Fviews&query=value&label=访问量&color=blue&style=for-the-badge)
+<!-- 每次打开页面 +1（隐藏） -->
+<img src="https://api.countapi.xyz/hit/ustcwangbing.github.io/views" style="display:none" alt="">
+
+<!-- 显示区域（自定义“徽章”样式） -->
+<div id="pv-badge" style="
+  display:inline-flex;align-items:center;gap:.6em;
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  font-size:14px;line-height:1;
+  background:#1f6feb;color:#fff;border-radius:999px;padding:.5em .9em;">
+  <span>访问量</span>
+  <span id="pv-num" style="font-weight:700;">…</span>
+</div>
+
+<!-- 读取当前计数并填充数字 -->
+<script>
+fetch('https://api.countapi.xyz/get/ustcwangbing.github.io/views')
+  .then(r => r.json())
+  .then(d => { document.getElementById('pv-num').textContent = d.value; })
+  .catch(() => { document.getElementById('pv-num').textContent = 'N/A'; });
+</script>
+
 
 
 
