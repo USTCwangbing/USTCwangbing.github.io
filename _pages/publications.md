@@ -16,7 +16,7 @@ redirect_from:
 - Journal papers:
 --- 
 
-1. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics.
+1. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics (2025), online publication.
 
 2. **[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
 
