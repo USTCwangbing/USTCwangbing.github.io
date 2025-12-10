@@ -18,7 +18,7 @@ redirect_from:
 
 1. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics (2025), online publication.
 
-2. **[Some Topics in the Ricci Flow](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23494)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
+2. **[Some Topics in the Ricci Flow](https://global-sci.com/index.php/jms/article/view/13479)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
 
 3. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
   
