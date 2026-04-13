@@ -16,7 +16,7 @@ redirect_from:
 - Journal papers:
 --- 
 
-1. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1 (2026), pp. 1-50.
+1. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1 (2026),1-50.
 
 3. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics (2026), online publication.
 
