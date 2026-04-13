@@ -16,6 +16,7 @@ redirect_from:
 
 - Teaching at USTC (Fall 2018-present)
 --- 
+   - Spring of 2026, MATH3702e.01, Complex Analysis(H)(EN).
    - Fall of 2025, MATH7432P.01, Topics in geometry and physics.
    - Spring of 2025, MATH3702e.01, Complex Analysis(H)(EN).
    - Spring of 2024, 001701.01, Complex Variable(H).
