@@ -16,13 +16,13 @@ redirect_from:
 - Journal papers:
 --- 
 
-1. **[Curvature at the infinity of asymptotically flat Einstein manifold](https://USTCwangbing.github.io/files/curvature-at-infinity.pdf)**, (in collaboration with H. Yin), Transactions of the American Mathematical Society. Series B, vol.13 (2026),403-440.
+1. **[Curvature at the infinity of asymptotically flat Einstein manifold](https://USTCwangbing.github.io/files/curvature-at-infinity.pdf)**, (in collaboration with H. Yin), Transactions of the American Mathematical Society. Series B, vol.13(2026), 403-440.
 
-2. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1 (2026),1-50.
+2. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1(2026),1-50.
 
 3. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics (2026), online publication.
 
-4. **[Some Topics in the Ricci Flow](https://global-sci.com/index.php/jms/article/view/13479)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
+4. **[Some Topics in the Ricci Flow](https://global-sci.com/index.php/jms/article/view/13479)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57(2024), 379-397.
 
 5. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
   
