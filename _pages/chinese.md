@@ -66,10 +66,11 @@ redirect_from:
 
 - 期刊论文：
    
-   1. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1 (2026),1-50.
+   1. **[Curvature at the infinity of asymptotically flat Einstein manifold](https://USTCwangbing.github.io/files/curvature-at-infinity.pdf)**, (in collaboration with H. Yin), Transactions of the American Mathematical Society. Series B, vol.13(2026), 403-440.
+   1. **[On Kähler Ricci shrinker surfaces](https://link.intlpress.com/JDetail/2039771492163059713)**, (in collaboration with Y. Li), Acta Mathematica, vol.236, issue 1(2026), 1-50.
    2. **[Rigidity of the first Betti number via Ricci flow smoothing](https://www.sciengine.com/SCM/doi/10.1007/s11425-025-2495-y)**, (in collaboration with S.S.Huang), SCIENCE CHINA Mathematics (2026), online publication.
    3. **[Some Topics in the Ricci Flow](https://global-sci.com/index.php/jms/article/view/13479)**, (in collaboration with X.X.Chen), Journal of Mathematical Study, vol.57 (2024), 379-397.
-   4. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44(2024), no.B5, 1639-1695.
+   4. **[Heat kernel on Ricci shrinkers (II)](https://link.springer.com/article/10.1007/s10473-024-0502-7)**, (in collabration with Y. Li), Acta Mathematica Scientia, vol.44 (2024), no.B5, 1639-1695.
    5. **[Rigidity of the round cylinders in Ricci shrinkers](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-127/issue-2/Rigidity-of-the-round-cylinders-in-Ricci-shrinkers/10.4310/jdg/1717772425.short)**, (in collabration with Y. Li), Journal of Differential Geometry, vol.127(2024), no.2, 817-897.
    6. **[Ricci curvature integrals, local functionals, and the Ricci flow](https://www.ams.org/journals/btran/2023-10-27/S2330-0000-2023-00155-8/)**, (in collabration with Y.Q. Ma), Transactions of the American Mathematical Society, Series B, vol.10(2023), 944-987.
    7. **[Canonical diffeomorphisms of manifolds near spheres](https://link.springer.com/article/10.1007/s12220-023-01375-x)**, (in collabration with X.R. Zhao), The Journal of Geometric Analysis, vol.33(2023), no.304, 1-31.
